@@ -1,0 +1,1115 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Educo - Education & Course Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/educo.tokotema.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.png",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Become Instructors",
+            "screenshot": "screenshots\/become-instructors.png",
+            "source": "templates\/become-instructors.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/become-instructors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Instructors",
+            "screenshot": "screenshots\/instructors.png",
+            "source": "templates\/instructors.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/instructors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course Details",
+            "screenshot": "screenshots\/course-details.png",
+            "source": "templates\/course-details.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/course-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.png",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Educo Contact Form",
+            "screenshot": "screenshots\/educo-contact-form.png",
+            "source": "templates\/educo-contact-form.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/educo-contact-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Educo Subscribe Form",
+            "screenshot": "screenshots\/educo-subscribe-form.png",
+            "source": "templates\/educo-subscribe-form.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/educo-subscribe-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/educo.tokotema.com\/template-kit\/header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.13.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "happy-and-confident-call-center-agent-sitting-in-f-2022-12-09-23-59-48-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/happy-and-confident-call-center-agent-sitting-in-f-2022-12-09-23-59-48-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 128696,
+            "dimensions": [
+                483,
+                379
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "ui-ux-creative-designer-team-designing-wireframe-l-2022-11-02-00-51-00-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/ui-ux-creative-designer-team-designing-wireframe-l-2022-11-02-00-51-00-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 188926,
+            "dimensions": [
+                592,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "happy-middle-aged-male-freelancer-posing-with-lapt-2022-12-16-09-13-12-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/happy-middle-aged-male-freelancer-posing-with-lapt-2022-12-16-09-13-12-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10858,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Verified-icon.png",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Verified-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 640,
+            "dimensions": [
+                26,
+                27
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "n\/a"
+        },
+        {
+            "filename": "cropped-image-of-man-holding-speech-bubble-with-em-2022-12-16-20-57-08-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cropped-image-of-man-holding-speech-bubble-with-em-2022-12-16-20-57-08-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 225624,
+            "dimensions": [
+                592,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-4.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12143,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "online-communiction-african-american-teen-guy-bro-2022-12-16-08-41-11-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/online-communiction-african-american-teen-guy-bro-2022-12-16-08-41-11-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                }
+            ],
+            "filesize": 8938,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "confident-young-guy-in-glasses-using-laptop-pc-for-2022-12-16-07-25-08-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/confident-young-guy-in-glasses-using-laptop-pc-for-2022-12-16-07-25-08-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                }
+            ],
+            "filesize": 215453,
+            "dimensions": [
+                463,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "student-using-laptop-having-online-class-with-teac-2022-12-16-07-23-55-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/student-using-laptop-having-online-class-with-teac-2022-12-16-07-23-55-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                }
+            ],
+            "filesize": 82901,
+            "dimensions": [
+                598,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "woman-recording-video-blog-for-her-internet-channe-2022-12-16-08-12-30-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/woman-recording-video-blog-for-her-internet-channe-2022-12-16-08-12-30-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                }
+            ],
+            "filesize": 245036,
+            "dimensions": [
+                598,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "english-teacher-greeting-students-online-waving-t-2022-12-16-08-13-40-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/english-teacher-greeting-students-online-waving-t-2022-12-16-08-13-40-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/become-instructors.json",
+                    "name": "Become Instructors"
+                }
+            ],
+            "filesize": 53937,
+            "dimensions": [
+                598,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "happy-middle-aged-male-freelancer-posing-with-lapt-2022-12-16-09-13-12-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/happy-middle-aged-male-freelancer-posing-with-lapt-2022-12-16-09-13-12-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214663,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 298016,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "portrait-of-positive-young-guy-posing-with-crossed-2022-12-16-09-18-42-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/portrait-of-positive-young-guy-posing-with-crossed-2022-12-16-09-18-42-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 238247,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cute-young-brunette-woman-posing-on-orange-studio-2023-01-10-16-36-06-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cute-young-brunette-woman-posing-on-orange-studio-2023-01-10-16-36-06-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 207994,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "online-communiction-african-american-teen-guy-bro-2022-12-16-08-41-11-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/online-communiction-african-american-teen-guy-bro-2022-12-16-08-41-11-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 267251,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cheerful-young-hispanic-lady-posing-on-grey-studio-2023-04-27-03-54-54-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cheerful-young-hispanic-lady-posing-on-grey-studio-2023-04-27-03-54-54-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 251577,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "smiling-middle-eastern-man-in-casual-with-laptop-2022-12-16-08-31-27-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/smiling-middle-eastern-man-in-casual-with-laptop-2022-12-16-08-31-27-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 264020,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "excited-young-girl-winner-with-laptop-isolated-on-2022-10-11-23-33-37-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/excited-young-girl-winner-with-laptop-isolated-on-2022-10-11-23-33-37-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 234088,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Advertising-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Advertising-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 93952,
+            "dimensions": [
+                560,
+                264
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "korean-teenager-boy-at-laptop-taking-notes-learnin-2023-03-23-03-44-56-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/korean-teenager-boy-at-laptop-taking-notes-learnin-2023-03-23-03-44-56-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 53238,
+            "dimensions": [
+                1140,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "smart-girl-teenager-having-video-conference-with-t-2022-10-17-22-47-40-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/smart-girl-teenager-having-video-conference-with-t-2022-10-17-22-47-40-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                }
+            ],
+            "filesize": 209379,
+            "dimensions": [
+                677,
+                368
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-3.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                }
+            ],
+            "filesize": 61811,
+            "dimensions": [
+                246,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Self-development.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Self-development.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89865,
+            "dimensions": [
+                497,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cute-young-brunette-woman-posing-on-orange-studio-2023-01-10-16-36-06-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cute-young-brunette-woman-posing-on-orange-studio-2023-01-10-16-36-06-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9969,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Content-Marketing.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Content-Marketing.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 130559,
+            "dimensions": [
+                497,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "portrait-of-positive-young-guy-in-t-shirt-looking-2022-12-16-07-34-09-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/portrait-of-positive-young-guy-in-t-shirt-looking-2022-12-16-07-34-09-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9198,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "SEO-Mastery.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/SEO-Mastery.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 102978,
+            "dimensions": [
+                497,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "pretty-woman-in-yellow-summer-dress-and-sunglasses-2022-01-29-05-54-22-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/pretty-woman-in-yellow-summer-dress-and-sunglasses-2022-01-29-05-54-22-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 16935,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cheerful-asian-teenager-boy-posing-smiling-over-bl-2023-03-08-20-05-56-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cheerful-asian-teenager-boy-posing-smiling-over-bl-2023-03-08-20-05-56-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-details.json",
+                    "name": "Course Details"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 204837,
+            "dimensions": [
+                463,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "young-enthusiastic-korean-girl-in-trendy-outfit-s-2022-12-16-05-53-56-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/young-enthusiastic-korean-girl-in-trendy-outfit-s-2022-12-16-05-53-56-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 146603,
+            "dimensions": [
+                497,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Email-Marketing.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Email-Marketing.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 63392,
+            "dimensions": [
+                497,
+                339
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Advertising.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Advertising.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 99088,
+            "dimensions": [
+                497,
+                339
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "portrait-of-positive-young-guy-posing-with-crossed-2022-12-16-09-18-42-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/portrait-of-positive-young-guy-posing-with-crossed-2022-12-16-09-18-42-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10067,
+            "dimensions": [
+                92,
+                92
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Dot-Grid.png",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Dot-Grid.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 277,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "n\/a"
+        },
+        {
+            "filename": "mature-business-lady-showing-smartphone-with-blank-2022-12-16-06-41-11-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/mature-business-lady-showing-smartphone-with-blank-2022-12-16-06-41-11-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37570,
+            "dimensions": [
+                237,
+                238
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Vector-2.png",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Vector-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1639,
+            "dimensions": [
+                110,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "n\/a"
+        },
+        {
+            "filename": "cheerful-asian-teenager-boy-posing-smiling-over-bl-2023-03-08-20-05-56-utc-2.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/cheerful-asian-teenager-boy-posing-smiling-over-bl-2023-03-08-20-05-56-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11369,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-1.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/lovely-african-american-woman-making-yes-gesture-2022-12-16-09-17-37-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 130398,
+            "dimensions": [
+                318,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "modern-technologies-concept-young-man-browsing-we-2022-12-02-00-00-05-utc.jpg",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/modern-technologies-concept-young-man-browsing-we-2022-12-02-00-00-05-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 175517,
+            "dimensions": [
+                463,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZVL5SFDUT?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/educo.tokotema.com\/wp-content\/uploads\/2023\/05\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3272,
+            "dimensions": [
+                274,
+                88
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "n\/a"
+        }
+    ]
+}

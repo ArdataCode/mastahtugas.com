@@ -1,0 +1,188 @@
+[22-Mar-2024 20:16:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/mastahtugas.com/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/admin-filters.php on line 11
+[22-Mar-2024 20:16:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/websit19/mastahtugas.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/admin.php on line 16
+[22-Mar-2024 20:16:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[22-Mar-2024 20:16:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-core-upgrader.php on line 21
+[22-Mar-2024 20:16:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-ftp-pure.php on line 28
+[22-Mar-2024 20:16:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-ftp-sockets.php on line 28
+[22-Mar-2024 20:16:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[22-Mar-2024 20:16:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[22-Mar-2024 20:16:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-plugin-upgrader.php on line 21
+[22-Mar-2024 20:16:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-installer-skin.php on line 18
+[22-Mar-2024 20:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[22-Mar-2024 20:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-theme-upgrader.php on line 21
+[22-Mar-2024 20:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-category-checklist.php on line 19
+[22-Mar-2024 20:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[22-Mar-2024 20:16:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[22-Mar-2024 20:16:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Automatic_Upgrader_Skin" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[22-Mar-2024 20:16:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[22-Mar-2024 20:16:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[22-Mar-2024 20:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[22-Mar-2024 20:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[22-Mar-2024 20:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[22-Mar-2024 20:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[22-Mar-2024 20:16:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-links-list-table.php on line 17
+[22-Mar-2024 20:16:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[22-Mar-2024 20:16:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-media-list-table.php on line 17
+[22-Mar-2024 20:16:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[22-Mar-2024 20:16:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[22-Mar-2024 20:16:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[22-Mar-2024 20:16:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[22-Mar-2024 20:16:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[22-Mar-2024 20:16:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Comments_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[22-Mar-2024 20:16:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[22-Mar-2024 20:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[22-Mar-2024 20:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[22-Mar-2024 20:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[22-Mar-2024 20:16:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[22-Mar-2024 20:16:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Themes_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[22-Mar-2024 20:16:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[22-Mar-2024 20:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[22-Mar-2024 20:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-upgrader.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-upgrader.php on line 13
+[22-Mar-2024 20:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/class-wp-users-list-table.php on line 17
+[22-Mar-2024 20:16:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/websit19/mastahtugas.com/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mastahtugas.com/wp-admin/includes/continents-cities.php on line 12
